@@ -1,19 +1,130 @@
-<h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrahman69&label=Profile%20views&color=0e75b6&style=flat" alt="arrahman69" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdurrahman6ty9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdurrahman6ty9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center" style="background-color: #000000;">
+  <a href="https://github.com/arrahman69" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdur-rahman07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/arrahman69" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://x.com/rah_abdur5635" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://app.netlify.com/teams/arrahman69/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="mailto:the.abdurrahman01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sdsjhfhd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sdsjhfhd" /></a><a href="https://ko-fi.com/fgdgf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fgdgf" /></a></p><br><br>
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrahman69&show_icons=true&locale=en&layout=compact" alt="arrahman69" /></p>
+## 👨🏼‍💻 I'm a Frontend Developer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrahman69&show_icons=true&locale=en" alt="arrahman69" /></p>
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
+
+🔹 Building performant, responsive UIs with **Modern React**  
+🔹 Exploring **advanced state management** solutions  
+🔹 Implementing **accessibility** best practices  
+🔹 Optimizing **web performance** metrics  
+🔹 Mastering **TypeScript** for scalable frontend architecture  
+🔹 Developing **full-stack capabilities** with Next.js API routes  
+🔹 Contributing to **open-source** frontend projects
+
+</div>
+
+<div style="background-color: #000000; padding: 20px; border-radius: 5px;">
+
+## 🧰 Languages & Tools:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+</div>
+
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
+
+## 📈 GitHub Stats
+
+<p align="center">
+ <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrahma69&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrahman69&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
+</p>
+
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arrahman69&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrahman69&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+</p>
+
+</div>
+
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arrahman69&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+</div>
+
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Created my GitHub Profile README
+2. 🚀 Started a new project
+3. 🔥 Pushed first commit
+<!--END_SECTION:activity-->
+
+</div>
+
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
+
+## My Projects:
+Check the pinned repositories below 👇
+
+</div>
+
+<p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=arrahman69&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/arrahman69?tab=followers">
+    <img src="https://img.shields.io/github/followers/amdadislam01?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/arrahman69/arrahman69">
+    <img src="https://img.shields.io/github/stars/amdadislam01?style=social" alt="GitHub Stars"/>
+  </a>
+</p>
