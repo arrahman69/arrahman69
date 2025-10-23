@@ -81,7 +81,7 @@ const info = {
 
 > I am playing ***Badminton*** 🏸 and ***Football*** 🏏 in my school as my favourite sports.
 
-> I am a ***Bike***and*** 🏎 Car lover.
+> I am a ***Bike ***and***🏎 Car lover.
   
  
 > I hope to be a ***Programmer*** 💻 in the future.
