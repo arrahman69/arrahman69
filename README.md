@@ -49,7 +49,7 @@ const info = {
     Location: "Dhaka, Bangladesh",
     Gender: "Male",
     Education: "At programming Hero",
-    Phone: "+880 1333 487 333"
+    Phone: "+880 1333 487 333",
     Email: "the.abdurrahman01@gmal.com",
     Hobbies: ["Billionaire", "Programmer", "Footballer"],
     InterestedIn: ["Developing", "Designing", "Programming", "Editing",  "Contributing",  "Freelancing""playing"],
