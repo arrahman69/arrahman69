@@ -315,7 +315,6 @@ const info = {
 <!-- Follow Me -->
 #
 <div>
-<a href="https://www.facebook.com/theabdurrahman"><img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg?semt=ais_hybrid&w=740&q=80" alt="FaceBook Icon" title="FaceBook"/></a> 
 <a href="https://api.whatsapp.com/send?phone=8801333487333&text=Assalamu%20alaikum,%20I%20Am%20%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%80%20%CA%80%E1%B4%80%CA%9C%E1%B4%8D%E1%B4%80%C9%B4." ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" href="https://wa.me/8801333487333
 " alt="WhatsApp Icon" title="WhatsApp"/></a> 
 <a href="https://t.me/abdurrrahman01"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram Icon" title="Telegram"/></a> 
