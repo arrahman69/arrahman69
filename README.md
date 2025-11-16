@@ -1,7 +1,7 @@
 <!--  Banner -->
 <div align="center">
-  <a href="https://arrahman69.github.io/my-protflio-website/">
-    <img src="https://raw.githubusercontent.com/arrahman69/my-protflio-website/main/images/linked-cover.png" 
+  <a href="https://the-abdurahman-01.github.io/my-protflio-website/">
+    <img src="https://raw.githubusercontent.com/the-abdurahman-01/my-protflio-website/main/images/linked-cover.png" 
          alt="Protfolio" 
          title="| Edited by ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ">
   </a>
@@ -9,7 +9,7 @@
 
 
 <!-- Main Heading -->
-# <div align="center"><a href="https://arrahman69.github.io/my-protflio-website/" title="#ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ">**ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ**</a></div>
+# <div align="center"><a href="https://the-abdurahman-01.github.io/my-protflio-website/" title="#ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ">**ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ**</a></div>
 
 <!-- Slogan -->
 <div align="center">
@@ -18,7 +18,7 @@
 
 
 <!-- Image --> 
-# <div align="center"><a href="https://arrahman69.github.io/my-protflio-website/"><img src="images/save-png.gif" height="300px" alt="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ" title="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ | Edited by ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ"></a></div>
+# <div align="center"><a href="https://the-abdurahman-01.github.io/my-protflio-website/"><img src="images/save-png.gif" height="300px" alt="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ" title="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ | Edited by ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ"></a></div>
 
 
 <!-- Auto Typing About -->
@@ -31,12 +31,12 @@
 
 #
 <!-- GitHub Username, Skyline and Website -->
-<div align="center"><a href="https://github.com/arrahman69" title="GitHub Username"><b><i>@arrahman69</i></b><a> | <aYLINE></b><a> | <a href="https://arrahman69.github.io/my-protflio-website/" title="Personal Portfolio Website"><b><i>ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ</i></b><a></div>
+<div align="center"><a href="https://github.com/the-abdurahman-01" title="GitHub Username"><b><i>@the-abdurahman-01</i></b><a> | <aYLINE></b><a> | <a href="https://the-abdurahman-01.github.io/my-protflio-website/" title="Personal Portfolio Website"><b><i>ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ</i></b><a></div>
 
 
 #
 <!-- Number of GitHub Followers -->
-# <div align="center" title="GitHub Followers">![GitHub followers](https://img.shields.io/github/followers/arrahman69?logo=GitHub&style=for-the-badge)</div>
+# <div align="center" title="GitHub Followers">![GitHub followers](https://img.shields.io/github/followers/the-abdurahman-01?logo=GitHub&style=for-the-badge)</div>
  
 
 <!-- Information from JavaScript Code -->
@@ -89,9 +89,9 @@ const info = {
 > I am proud to say that I am a ***Bangladeshi*** 🦅 ❤️💙🖤.
 
   
-> Watch my <a href="https://github.com/arrahman69?tab=repositories" title="My Repositories">***Repositories***</a> <span title="36 Repositories">`69`</span> 👨‍💻 here.
+> Watch my <a href="https://github.com/the-abdurahman-01?tab=repositories" title="My Repositories">***Repositories***</a> <span title="36 Repositories">`69`</span> 👨‍💻 here.
   
-> Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***https://arrahman69.github.io/my-protflio-website/***</span>
+> Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***https://the-abdurahman-01.github.io/my-protflio-website/***</span>
 
 
 #
@@ -126,7 +126,7 @@ const info = {
 </p>
 <div align="center" title="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ's Most Used Languages">
 
-<img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrahman69&layout=compact&count_private=true" />
+<img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abdurahman-01&layout=compact&count_private=true" />
 
 </div>
 
@@ -137,7 +137,7 @@ const info = {
 </p>
 <div align="center" title="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ Contribution Details">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arrahman69" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=the-abdurahman-01" align="center">
 
 </div>
 
@@ -149,18 +149,18 @@ const info = {
 
 <p align="center">
  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrahman69&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-abdurahman-01&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrahman69&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-abdurahman-01&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
 </p>
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arrahman69&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=the-abdurahman-01&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrahman69&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-abdurahman-01&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
 </p>
 
 </div>
@@ -170,7 +170,7 @@ const info = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arrahman69&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=the-abdurahman-01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
@@ -193,7 +193,7 @@ const info = {
 <div align="center" title="
 ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ GitHub Stats">
 
-<img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=arrahman69&show_icons=true&count_private=true"/>
+<img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=the-abdurahman-01&show_icons=true&count_private=true"/>
 
 </div> -->
 
@@ -207,8 +207,8 @@ const info = {
 ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ Contribution Graph">
 
 
-<a href="https://github.com/arrahman69/github-readme-activity-graph"><img alt="
-ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=arrahman69&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/the-abdurahman-01/github-readme-activity-graph"><img alt="
+ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=the-abdurahman-01&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
   
 <div align="center" title="
@@ -228,7 +228,7 @@ const info = {
 </p>
 <p align="center" title="'s Trophies">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=arrahman69&theme=darkhub"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=the-abdurahman-01&theme=darkhub"/>
 
 </p>
 
@@ -255,17 +255,17 @@ const info = {
 <!-- <div align="center" title="
 ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ Most Worked Repositories">
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=&theme=dark)]
-(https://github.com/arrahman69) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=&theme=dark)](https://github.com/arrahman69/https://github.com/arrahman69/) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=&theme=dark)]
+(https://github.com/the-abdurahman-01) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=&theme=dark)](https://github.com/the-abdurahman-01/https://github.com/the-abdurahman-01/) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=sack-site&theme=dark)](https://github.com/acf-sack/sack-site) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=sef-site&theme=dark)](https://github.com/sef-global/sef-site) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=sack-site&theme=dark)](https://github.com/acf-sack/sack-site) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=sef-site&theme=dark)](https://github.com/sef-global/sef-site) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=CALCULATOR-WEBSITE&theme=dark)](https://github.com/arrahman69/CALCULATOR-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=arrahman69&theme=dark)](https://github.com/arrahman69/arrahman69) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=CALCULATOR-WEBSITE&theme=dark)](https://github.com/the-abdurahman-01/CALCULATOR-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=the-abdurahman-01&theme=dark)](https://github.com/the-abdurahman-01/the-abdurahman-01) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
                                                                           
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrahman69&repo=DOFA-Peradeniya&theme=dark)](https://github.com/arrahman69/DOFA-Peradeniya)                                                                       
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-abdurahman-01&repo=DOFA-Peradeniya&theme=dark)](https://github.com/the-abdurahman-01/DOFA-Peradeniya)                                                                       
 
 </div> -->
  
@@ -279,7 +279,7 @@ const info = {
 ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ's Hacktoberfest 2022 Holopin Badge Board">
  <b><i>HACKTOBERFEST HOLOPIN BADGE BOARD</i></b>
 
-[![An image of @arrahman69 's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arrahman69)](https://holopin.io/@arrahman69)
+[![An image of @the-abdurahman-01 's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/the-abdurahman-01)](https://holopin.io/@the-abdurahman-01)
 
 <!-- </p> --> 
 
@@ -288,12 +288,12 @@ const info = {
 
 
 
-<!-- arrahman69's GitHub Unwrapped 2023 -->
+<!-- the-abdurahman-01's GitHub Unwrapped 2023 -->
 <!-- # -->
 <p align="center" title="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ's GitHub Unwrapped 2025">
  <b><i>GITHUB UNWRAPPED 2025</i></b>
  <div align="center">
-   <a href="https://githubunwrapped.com/arrahman69"><img src="images/img.png" width="400" alt="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ's GitHub Unwrapped 2023"/></a>
+   <a href="https://githubunwrapped.com/the-abdurahman-01"><img src="images/img.png" width="400" alt="ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ's GitHub Unwrapped 2023"/></a>
  </div>
 </p>
 
@@ -307,7 +307,7 @@ const info = {
   
 > Email :- <a href="mailto:the.abdurrrahman01@gmail.com"><b><i title="Email">the.abdurrrahman01@gmail.com</i></b></a>
   
-> Website :- [<b><i title="Personal Portfolio Website">https://arrahman69.github.io/my-protflio-website/</i></b>](https://arrahman69.github.io/my-protflio-website/)
+> Website :- [<b><i title="Personal Portfolio Website">https://the-abdurahman-01.github.io/my-protflio-website/</i></b>](https://the-abdurahman-01.github.io/my-protflio-website/)
   
 
  
@@ -318,7 +318,7 @@ const info = {
 <a href="https://api.whatsapp.com/send?phone=8801333487333&text=Assalamu%20alaikum,%20I%20Am%20%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%80%20%CA%80%E1%B4%80%CA%9C%E1%B4%8D%E1%B4%80%C9%B4." ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" href="https://wa.me/8801333487333
 " alt="WhatsApp Icon" title="WhatsApp"/></a> 
 <a href="https://t.me/abdurrrahman01"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram Icon" title="Telegram"/></a> 
-<a href="https://github.com/arrahman69"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon" title="GitHub"/></a> 
+<a href="https://github.com/the-abdurahman-01"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon" title="GitHub"/></a> 
 <a href="https://twitter.com/
 ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ2008"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> 
 <a href="https://www.instagram.com/its.abdurrahman1/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> 
@@ -331,7 +331,7 @@ const info = {
 
 #
 <!-- Copyright -->
-<div align="center"><b>© 2025 <a href="https://arrahman69.github.io/my-protflio-website/" title="© 2022 ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ ">ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ </a></b></div>
+<div align="center"><b>© 2025 <a href="https://the-abdurahman-01.github.io/my-protflio-website/" title="© 2022 ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ ">ᴀʙᴅᴜʀ-ʀᴀʜᴍᴀɴ </a></b></div>
 
 ###
 <!-- Footer Links -->
